@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=liusy58&color=brightgreen&label=PROFILE+VIEWS)
+
+- 🔭 I’m currently working in ByteDance.
+- 📫 How to reach me:plz contact me by [email](liusy58@,ail2.sysu.edu.cn)
+- 🏫 I'm an undergraduate in Sun-Yat-sen University majoring in the computer science. 
+- 👯 I'm now interested in System such as OS, Compiler and Database. 
