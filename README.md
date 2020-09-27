@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=liusy58&color=brightgreen&label=PROFILE+VIEWS)
 
 
-<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Siyu Liu, an undergraduate in Sun-Yat-sen University majoring in the computer science.
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Siyu Liu, an undergraduate in Sun Yat-sen University majoring in the computer science.
 <p></p>
 
 <table align="center">
