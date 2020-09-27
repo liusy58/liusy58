@@ -52,15 +52,14 @@ Here are some ideas to get you started:
 </tr>
 <tr>
 <td>
-<p align="center"><a href="https://github.com/chenyuxiang0425"><img src="https://github-readme-stats.vercel.app/api?username=chenyuxiang0425&hide_border=true&show_icons=true" alt="Yuxiang Chen's github stats"></a></p>
+<p align="center"><a href="https://github.com/chenyuxiang0425"><img src="https://github-readme-stats.vercel.app/api?username=liusy58&hide_border=true&show_icons=true" alt="Siyu Liu's github stats"></a></p>
 
 </td>
 <td>
 
 #### 🤗 My social accounts
-- <strong><a href="https://chenyuxiang0425.github.io">Blog</a></strong>
-- <strong><a href="https://www.zhihu.com/people/yu-xiang-82-74">Zhihu</a></strong>
-- <strong><a href="https://t.me/chenyuxiang0425">Telegram</a></strong>
+- <strong><a href="https://liusy58.github.io">Blog</a></strong>
+- <strong><a href="https://www.zhihu.com/people/liu-si-yu-51-23-99">Zhihu</a></strong>
 
 </td>
 </tr>
