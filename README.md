@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top" width="60%">
 
-#### 🏋️‍♀️ <a href="https://github.com/chenyuxiang0425/CS-Notes/blob/master/README.md" target="_blank">Talking about Personal Stuffs</a>
+#### 🏋️‍♀️ <a href="https://github.com/liusy58" target="_blank">Talking about Personal Stuffs</a>
 <!-- recent_releases starts -->
 
 - 🔭 I’m currently working in ByteDance.
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </tr>
 <tr>
 <td>
-<p align="center"><a href="https://github.com/chenyuxiang0425"><img src="https://github-readme-stats.vercel.app/api?username=liusy58&hide_border=true&show_icons=true" alt="Siyu Liu's github stats"></a></p>
+<p align="center"><a href="https://github.com/liusy58"><img src="https://github-readme-stats.vercel.app/api?username=liusy58&hide_border=true&show_icons=true" alt="Siyu Liu's github stats"></a></p>
 
 </td>
 <td>
