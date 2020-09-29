@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me:plz contact me by [email](liusy58@,ail2.sysu.edu.cn)
 - 🏫 I'm an undergraduate in Sun Yat-sen University majoring in the computer science. Expected to graduate in Spring 2021.
 - 👯 I'm now interested in System such as OS, Compiler and Database. 
-- 🏊‍♂️ Languages and Tools: <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+- 🤔 I’m looking for help with Distributed System.
+- 🏊‍♂️ Languages and Tools: 
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
