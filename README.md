@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=liusy58&color=brightgreen&label=PROFILE+VIEWS)
 
 
-<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Siyu Liu, an undergraduate student in Sun Yat-sen University majoring in the computer science. I'm expected to graduate in Spring, 2021. And I rank the 2nd place during my colleage study. I will go on learning somthing about systems such as Operating System, Compiler and Database(distributed especially) in the next 3 years. If you share the same interest, feel free to chat with me via WeChat(LIUSIYU_58) or email. Hopefully, I can obtain a phd degree in the future. 
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Siyu Liu, an undergraduate student in Sun Yat-sen University majoring in the computer science. I'm expected to graduate in Spring, 2021. And I rank the 2nd place among 109 students. I will go on learning somthing about systems such as Operating System, Compiler and Database(distributed especially) in the next 3 years. If you share the same interest, feel free to chat with me via WeChat(LIUSIYU_58) or email. Hopefully, I can obtain a phd degree in the future. 
 <p></p>
 
 
