@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <!-- recent_releases starts -->
 
 - 🔭 I’m currently working in ByteDance.
-- 📫 How to reach me:plz contact me by [email](liusy58@,ail2.sysu.edu.cn) or WeChat(LIUSIYU_58)
+- 📫 How to reach me:plz contact me by [email](liusy58@mail2.sysu.edu.cn) or WeChat(LIUSIYU_58)
 - 🏫 I'm an undergraduate in Sun Yat-sen University majoring in the computer science. Expected to graduate in Spring 2021.
 - 👯 I'm now interested in System such as OS, Compiler and Database. 
 - 🤔 I’m looking for help with Distributed System.
