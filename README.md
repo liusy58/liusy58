@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working in ByteDance.
-- ⚡  I'm now preparing for my undergraduate dissertation about ml system. 
 - 📫 How to reach me:plz contact me by [email](liusy58@,ail2.sysu.edu.cn) or WeChat(LIUSIYU_58)
 - 🏫 I'm an undergraduate in Sun-Yat-sen University majoring in the computer science. Expected to graduate in Spring 2021.
 - 👯 I'm now interested in System such as OS, Compiler and Database. 
@@ -44,6 +43,7 @@ Here are some ideas to get you started:
 <!-- recent_releases starts -->
 
 - 🔭 I’m currently working in ByteDance.
+- ⚡  I'm now preparing for my undergraduate dissertation about ml system. 
 - 📫 How to reach me:plz contact me by [email](liusy58@mail2.sysu.edu.cn) or WeChat(LIUSIYU_58)
 - 🏫 I'm an undergraduate in Sun Yat-sen University majoring in the computer science. Expected to graduate in Spring 2021.
 - 👯 I'm now interested in System such as OS, Compiler and Database. 
