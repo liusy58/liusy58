@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <td valign="top" width="40%">
 
  <img alt="GIF" height="230" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liusy58&count_private=true&&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liusy58&count_private=true&&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 </tr>
 <tr>
