@@ -73,7 +73,8 @@ Here are some ideas to get you started:
  <strong><a href="https://liusy58.github.io">Blog</a></strong> <strong><a href="https://www.zhihu.com/people/liu-si-yu-51-23-99">Zhihu</a></strong>
 -->
 <a href="https://github.com/liusy58">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liusy58&layout=compact" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey2000" /> -->
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liusy58" />
 </a>
 </td>
 </tr>
