@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - ⚡  I'm now preparing for my undergraduate dissertation about compiler. 
 - 📫 How to reach me:plz contact me by [email](liusy58@mail2.sysu.edu.cn) or WeChat(LIUSIYU_58)
 - 🏫 I'm an undergraduate in Sun Yat-sen University majoring in the computer science. Expected to graduate in Spring 2021.
-- 👯 I'm now interested in System such as OS, Compiler and Database. 
+- 👯 I'm now interested in Systems such as OS, Compiler and Database. 
 - 🤔 I’m looking for help with Distributed System.
 - 🏊‍♂️ Languages and Tools: 
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
