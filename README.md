@@ -57,8 +57,15 @@ Here are some ideas to get you started:
 <!-- recent_releases ends -->
 </td>
 <td valign="top" width="40%">
-
- <img alt="GIF" height="230" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
+<!--START_SECTION:waka-->
+```text
+C          12 hrs 2 mins   █████████████████░░░░░░░░   67.34 % 
+NASM       2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Markdown   2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Text       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Other      20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+```
+<!--END_SECTION:waka-->
 </td>
 </tr>
 <tr>
@@ -80,13 +87,5 @@ Here are some ideas to get you started:
 </table>
 
 
-<!--START_SECTION:waka-->
-```text
-C          12 hrs 2 mins   █████████████████░░░░░░░░   67.34 % 
-NASM       2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Markdown   2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Text       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Other      20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-```
-<!--END_SECTION:waka-->
+
 
