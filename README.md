@@ -79,12 +79,11 @@ Here are some ideas to get you started:
 </tr>
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2021 - 21 February, 2021
-
-TeX          49 mins         ████████████▒░░░░░░░░░░░░   49.69 % 
-Java         35 mins         █████████░░░░░░░░░░░░░░░░   35.75 % 
-sh           12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+C          12 hrs 2 mins   █████████████████░░░░░░░░   67.34 % 
+NASM       2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Markdown   2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Text       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Other      20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 <!--END_SECTION:waka-->
 </table>
