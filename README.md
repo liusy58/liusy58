@@ -77,6 +77,16 @@ Here are some ideas to get you started:
 </a>
 </td>
 </tr>
+<!--START_SECTION:waka-->
+```text
+Week: 14 February, 2021 - 21 February, 2021
+
+TeX          49 mins         ████████████▒░░░░░░░░░░░░   49.69 % 
+Java         35 mins         █████████░░░░░░░░░░░░░░░░   35.75 % 
+sh           12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+```
+<!--END_SECTION:waka-->
 </table>
 
 
