@@ -60,11 +60,11 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-C          12 hrs 2 mins   █████████████████░░░░░░░░   67.34 % 
-NASM       2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Markdown   2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Text       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Other      20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+C          12 hrs 55 mins  █████████████████░░░░░░░░   67.57 % 
+Markdown   2 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+NASM       2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Text       43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Other      24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 <!--END_SECTION:waka-->
  
