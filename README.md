@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=liusy58&color=brightgreen&label=PROFILE+VIEWS)
 
 
-<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Siyu Liu, an undergraduate student in Sun Yat-sen University majoring in the Computer Science. I'm expected to graduate in Spring, 2021. And I rank the 2nd place among 240 students. I will go on learning somthing about systems such as Operating System, Compiler and Database(distributed especially) in the future years. Maybe I will go on doing some rearch on ml system. If you share the same interest, feel free to chat with me via WeChat(LIUSIYU_58) or email and I'm eager to chat with new friends. Hopefully, I can obtain a Ph.D. in the future. To be honest, I'm good at nothing but writing bugs. :)
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Siyu Liu, an undergraduate student in Sun Yat-sen University majoring in the Computer Science. I'm expected to graduate in Spring, 2021. And I rank the 2nd place among 240 students. I will go on learning somthing about systems such as Operating System, Compiler and Database(distributed especially) in the future years. If you share the same interest, feel free to chat with me via WeChat(LIUSIYU_58) or email and I'm eager to chat with new friends. Hopefully, I can obtain a Ph.D. in the future. To be honest, I'm good at nothing but writing bugs. :)
 <p></p>
 
 
