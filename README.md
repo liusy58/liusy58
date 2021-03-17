@@ -61,11 +61,11 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-Bash       10 hrs 1 min    ██████▒░░░░░░░░░░░░░░░░░░   25.74 % 
-Other      9 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.32 % 
-C          8 hrs 24 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.61 % 
-C++        3 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Markdown   3 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+C          9 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.67 % 
+Bash       9 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.39 % 
+Other      8 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.26 % 
+C++        5 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Markdown   3 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 ```
 <!--END_SECTION:waka-->
  
