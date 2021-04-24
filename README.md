@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 #### 🏋️‍♀️ <a href="https://github.com/liusy58" target="_blank">Talking about Personal Stuffs</a>
 <!-- recent_releases starts -->
 
-- ⚡  I'm now preparing for my undergraduate dissertation about compiler. 
+- ⚡  I'm now learning Database. 
 - 📫 How to reach me:plz contact me by [email](liusy58@mail2.sysu.edu.cn) or WeChat(LIUSIYU_58)
 - 🏫 I'm an undergraduate in Sun Yat-sen University majoring in the computer science. Expected to graduate in Spring 2021.
 - 👯 I'm now interested in Systems such as OS, Compiler and Database. 
