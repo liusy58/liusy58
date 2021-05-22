@@ -61,9 +61,7 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-C            47 mins         ████████████▒░░░░░░░░░░░░   49.30 % 
-Java         35 mins         █████████▒░░░░░░░░░░░░░░░   36.74 % 
-GAS          13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
  
