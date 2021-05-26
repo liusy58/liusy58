@@ -61,8 +61,10 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-Java       45 mins         ████████████████████████░   95.39 % 
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Java       45 mins         ███████████████░░░░░░░░░░   59.38 % 
+C          17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 % 
+Bash       12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 <!--END_SECTION:waka-->
  
