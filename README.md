@@ -61,11 +61,11 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-Markdown   4 hrs 30 mins   ██████████▓░░░░░░░░░░░░░░   42.52 % 
-C          2 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.88 % 
-Makefile   1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Java       45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-C++        44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown   5 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   38.76 % 
+C          2 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.77 % 
+C++        2 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Makefile   1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Ruby       36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 ```
 <!--END_SECTION:waka-->
  
