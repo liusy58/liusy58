@@ -61,8 +61,8 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-Markdown   41 mins         ███████████████████████▓░   94.60 % 
-Bash       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Markdown   1 hr 8 mins     ████████████████████████░   96.65 % 
+Bash       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 ```
 <!--END_SECTION:waka-->
  
