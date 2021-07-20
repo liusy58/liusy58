@@ -61,10 +61,10 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-C          3 hrs 31 mins   ██████████████▓░░░░░░░░░░   58.85 % 
-Python     2 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   35.18 % 
-Text       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Markdown   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+C          3 hrs 25 mins   ███████████████▓░░░░░░░░░   62.56 % 
+Python     1 hr 41 mins    ███████▓░░░░░░░░░░░░░░░░░   30.92 % 
+Text       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Markdown   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 <!--END_SECTION:waka-->
  
