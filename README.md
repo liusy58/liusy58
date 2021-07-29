@@ -61,8 +61,8 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-C          1 hr 29 mins    ████████████████████████░   96.41 % 
-Bash       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+C      6 mins          ██████████████████▓░░░░░░   74.13 % 
+Bash   2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
 ```
 <!--END_SECTION:waka-->
  
