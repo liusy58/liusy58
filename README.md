@@ -61,8 +61,8 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-C      6 mins          ██████████████████▓░░░░░░   74.13 % 
-Bash   2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
+Python       14 mins         ██████████████████▒░░░░░░   72.80 % 
+C            4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
 ```
 <!--END_SECTION:waka-->
  
