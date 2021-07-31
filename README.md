@@ -61,8 +61,11 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-Python       14 mins         ██████████████████▒░░░░░░   72.80 % 
-C            4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
+Python     1 hr 4 mins     ███████████████▒░░░░░░░░░   61.86 % 
+Bash       11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+C++        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Markdown   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+JSON       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
 <!--END_SECTION:waka-->
  
