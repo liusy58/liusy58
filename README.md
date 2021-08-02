@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - ⚡  I'm now learning compiler. 
 - 📫 How to reach me:plz contact me by [email](liusy58@mail2.sysu.edu.cn) or WeChat(LIUSIYU_58)
-- 🏫 I'm an undergraduate in Sun Yat-sen University majoring in the computer science. Expected to graduate in Spring 2021.
+<!-- - 🏫 I'm an undergraduate in Sun Yat-sen University majoring in the computer science. Expected to graduate in Spring 2021. -->
 - 👯 I'm now interested in Systems such as OS, Compiler and Database. 
 - 🤔 I’m looking for help with Distributed System.
 - 🏊‍♂️ Languages and Tools: 
@@ -61,11 +61,11 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-Other      2 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   35.99 % 
-C++        1 hr 43 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.24 % 
-Python     1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Markdown   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-C          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Python     1 hr 4 mins     ███████████████▒░░░░░░░░░   61.86 % 
+Bash       11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+C++        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Markdown   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+JSON       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
 <!--END_SECTION:waka-->
  
