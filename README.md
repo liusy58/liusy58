@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=liusy58&color=brightgreen&label=PROFILE+VIEWS)
 
 
-<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Siyu Liu, an undergraduate student in Sun Yat-sen University majoring in the Computer Science. I'm expected to graduate in Spring, 2021. I will go on learning somthing about systems such as Operating System, Compiler and Database(distributed especially) in the future years. If you share the same interest, feel free to chat with me via WeChat(LIUSIYU_58) or email and I'm eager to chat with new friends. Hopefully, I can obtain a Ph.D. in the future. To be honest, I'm good at nothing but writing bugs. :)
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Siyu Liu. I will go on learning somthing about systems such as Operating System, Compiler and Database(distributed especially) in the future years. If you share the same interest, feel free to chat with me via WeChat(LIUSIYU_58) or email and I'm eager to chat with new friends. Hopefully, I can obtain a Ph.D. in the future. To be honest, I'm good at nothing but writing bugs. :)
 <p></p>
 
 
@@ -61,11 +61,11 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-Other      2 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   35.99 % 
-C++        1 hr 43 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.24 % 
-Python     1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Markdown   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-C          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Python     1 hr 4 mins     ███████████████▒░░░░░░░░░   61.86 % 
+Bash       11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+C++        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Markdown   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+JSON       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
 <!--END_SECTION:waka-->
  
