@@ -61,11 +61,11 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-C++        17 hrs 40 mins  █████████████▒░░░░░░░░░░░   53.67 % 
-Markdown   5 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.76 % 
-C          4 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-JSON       1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Text       1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+C++        19 hrs 55 mins  ███████████████░░░░░░░░░░   59.65 % 
+Markdown   5 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+C          3 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Text       1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+AsciiDoc   1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 ```
 <!--END_SECTION:waka-->
  
