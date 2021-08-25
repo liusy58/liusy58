@@ -61,11 +61,11 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-Java       8 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   39.88 % 
-Bash       3 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Markdown   2 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Docker     1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Python     1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Java       8 hrs 31 mins   █████████▒░░░░░░░░░░░░░░░   36.83 % 
+Docker     4 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.43 % 
+Markdown   2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Bash       1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Groovy     1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 <!--END_SECTION:waka-->
  
