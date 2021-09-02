@@ -61,11 +61,9 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-Docker        58 mins         ██████████▓░░░░░░░░░░░░░░   42.67 % 
-Bash          33 mins         ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-Other         31 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.15 % 
-Markdown      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Objective-C   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Other         4 mins          ███████████▓░░░░░░░░░░░░░   46.94 % 
+Objective-C   3 mins          █████████▒░░░░░░░░░░░░░░░   37.61 % 
+JSON          1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 ```
 <!--END_SECTION:waka-->
  
