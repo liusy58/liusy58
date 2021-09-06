@@ -61,9 +61,7 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-Other         4 mins          ███████████▓░░░░░░░░░░░░░   46.94 % 
-Objective-C   3 mins          █████████▒░░░░░░░░░░░░░░░   37.61 % 
-JSON          1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Bash   6 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
  
