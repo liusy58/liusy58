@@ -61,7 +61,11 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-Bash   6 mins          █████████████████████████   100.00 % 
+Go         4 hrs 1 min     ███████████████████▓░░░░░   78.12 % 
+C++        25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Bash       21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Markdown   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Text       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 <!--END_SECTION:waka-->
  
