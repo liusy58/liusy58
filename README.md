@@ -61,10 +61,9 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-C++        6 hrs 38 mins   ████████████████████████░   95.94 % 
-Markdown   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-CSV        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+C++        5 hrs 38 mins   ████████████████████▒░░░░   80.95 % 
+Markdown   1 hr 17 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.54 % 
+JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 <!--END_SECTION:waka-->
  
