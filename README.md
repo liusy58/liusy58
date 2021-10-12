@@ -61,11 +61,11 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-C++               35 hrs 2 mins   █████████████████▓░░░░░░░   70.46 % 
-Go                4 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Java              3 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Protocol Buffer   1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Markdown          1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+C++               30 hrs 55 mins  ███████████████░░░░░░░░░░   60.24 % 
+Java              7 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Go                4 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Protocol Buffer   2 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Markdown          2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 <!--END_SECTION:waka-->
  
