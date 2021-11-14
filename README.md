@@ -61,11 +61,11 @@ Here are some ideas to get you started:
  
 <!--START_SECTION:waka-->
 ```text
-C++        9 hrs 8 mins    ██████████▒░░░░░░░░░░░░░░   40.85 % 
-Java       6 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   29.67 % 
-Python     2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Other      1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Markdown   1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+C++        10 hrs 34 mins  ██████████████▓░░░░░░░░░░   58.76 % 
+Python     2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Other      1 hr 55 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Markdown   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Bash       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 <!--END_SECTION:waka-->
  
