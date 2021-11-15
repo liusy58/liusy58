@@ -36,30 +36,8 @@ Here are some ideas to get you started:
 <p></p>
 
 
-<!-- <table align="center">
-<tr>
-<td valign="top" width="60%">
 
-#### 🏋️‍♀️ <a href="https://github.com/liusy58" target="_blank">Talking about Personal Stuffs</a>
-<!-- recent_releases starts -->
-
-- ⚡  I'm now learning compiler. 
-- 📫 How to reach me:plz contact me by [email](liusy58@mail2.sysu.edu.cn) or WeChat(LIUSIYU_58)
-<!-- - 🏫 I'm an undergraduate in Sun Yat-sen University majoring in the computer science. Expected to graduate in Spring 2021. -->
-- 👯 I'm now interested in Systems such as OS, Compiler and Database. 
-- 🤔 I’m looking for help with Distributed System.
-- 🏊‍♂️ Languages and Tools: 
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<!-- recent_releases ends -->
-</td>
-<td>
- 
-<!--START_SECTION:waka-->
+ <!--START_SECTION:waka-->
 ```text
 C++        10 hrs 34 mins  ██████████████▓░░░░░░░░░░   58.76 % 
 Python     2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 % 
