@@ -68,39 +68,3 @@ Markdown   1 hr 6 mins     █▓░░░░░░░░░░░░░░░�
 Bash       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 <!--END_SECTION:waka-->
- 
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"><a href="https://github.com/liusy58"><img src="https://github-readme-stats.vercel.app/api?username=liusy58&hide_border=true&show_icons=true" alt="Siyu Liu's github stats"></a></p>
-
-</td>
-<td>
-<!--
-#### 🤗 My social accounts
- <strong><a href="https://liusy58.github.io">Blog</a></strong> <strong><a href="https://www.zhihu.com/people/liu-si-yu-51-23-99">Zhihu</a></strong>
--->
-<a href="https://github.com/liusy58">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey2000" /> -->
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liusy58" />
-</a>
-</td>
-</tr>
-</table>
-
-
-
-
-
- -->
- 
- <!--START_SECTION:waka-->
-```text
-C++        10 hrs 34 mins  ██████████████▓░░░░░░░░░░   58.76 % 
-Python     2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Other      1 hr 55 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Markdown   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Bash       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-```
-<!--END_SECTION:waka-->
