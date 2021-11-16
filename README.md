@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-C++        10 hrs 34 mins  ██████████████▓░░░░░░░░░░   58.76 % 
-Python     2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Other      1 hr 55 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Markdown   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Bash       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+C++              15 hrs 28 mins  ███████████████░░░░░░░░░░   60.47 % 
+Python           2 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Other            1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Markdown         1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+ca65 assembler   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 ```
 <!--END_SECTION:waka-->
