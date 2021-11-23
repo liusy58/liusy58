@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-C++              14 hrs 2 mins   ███████████████▒░░░░░░░░░   61.99 % 
-Java             4 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 % 
-ca65 assembler   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-HTML             58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Python           49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+C++               13 hrs 26 mins  ██████████████░░░░░░░░░░░   55.82 % 
+Java              3 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Go                2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Python            1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Protocol Buffer   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 ```
 <!--END_SECTION:waka-->
