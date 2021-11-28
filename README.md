@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-C++               14 hrs          ███████████████░░░░░░░░░░   59.35 % 
-Go                2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Python            1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Protocol Buffer   1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-C                 1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+C++               14 hrs          ██████████████░░░░░░░░░░░   55.54 % 
+Go                3 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Python            1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Protocol Buffer   1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+C                 1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 <!--END_SECTION:waka-->
