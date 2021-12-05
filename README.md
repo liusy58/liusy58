@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-Go           9 hrs 54 mins   ███████████▓░░░░░░░░░░░░░   46.95 % 
-C++          7 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.75 % 
-ObjectiveC   1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Java         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Text         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Go           7 hrs 22 mins   ████████░░░░░░░░░░░░░░░░░   31.71 % 
+C++          7 hrs 20 mins   ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Java         5 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+ObjectiveC   1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Text         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 <!--END_SECTION:waka-->
