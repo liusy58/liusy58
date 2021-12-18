@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-Java       24 hrs 15 mins  ██████████████████▒░░░░░░   72.91 % 
-Markdown   3 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Go         2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Other      2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Text       41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Java       27 hrs 8 mins   █████████████████▒░░░░░░░   69.09 % 
+Go         5 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Markdown   3 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Other      2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Text       41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 <!--END_SECTION:waka-->
