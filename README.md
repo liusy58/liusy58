@@ -39,8 +39,9 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-Markdown   15 hrs 24 mins  ████████████████████████▒   97.61 % 
-YAML       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Java       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Markdown   14 hrs 49 mins  █████████████████████░░░░   84.58 % 
+Go         2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+YAML       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Java       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
