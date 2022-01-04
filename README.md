@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-Go         2 hrs 39 mins   ████████████████████░░░░░   79.68 % 
-Markdown   40 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Go     2 hrs 39 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
