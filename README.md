@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++          3 hrs 40 mins   █████████████████▓░░░░░░░   70.43 % 
+Markdown     59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.91 % 
+ObjectiveC   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+textmate     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
