@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
  <!--START_SECTION:waka-->
 ```text
-C++          7 hrs 11 mins   ███████████████▒░░░░░░░░░   61.94 % 
-Markdown     2 hrs 52 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.72 % 
-ObjectiveC   1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-C            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+C++          10 hrs 11 mins  ███████████████▓░░░░░░░░░   62.98 % 
+Markdown     2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.73 % 
+ObjectiveC   1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Text         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Java         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 <!--END_SECTION:waka-->
