@@ -41,10 +41,10 @@ I'm now working on jit to make hotspot run faster.
 
  <!--START_SECTION:waka-->
 ```text
-C++          21 hrs 30 mins  █████████████████▓░░░░░░░   70.40 % 
-ObjectiveC   3 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Markdown     2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Text         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Bash         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+C++          19 hrs 41 mins  ███████████████▓░░░░░░░░░   62.86 % 
+Markdown     3 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+ObjectiveC   3 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Text         2 hrs 10 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Bash         55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 <!--END_SECTION:waka-->
