@@ -42,12 +42,12 @@ I'm now working on jit to make hotspot run faster.
  <!--START_SECTION:waka-->
 
 ```text
-C++               23 hrs 44 mins  █████████████▒░░░░░░░░░░░   53.92 %
-ObjectiveC        10 hrs 46 mins  ██████░░░░░░░░░░░░░░░░░░░   24.47 %
-Text              3 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Markdown          2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Protocol Buffer   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Python            27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+C++               22 hrs 4 mins   █████████████▓░░░░░░░░░░░   54.33 %
+ObjectiveC        10 hrs 42 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
+Text              3 hrs 57 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+Markdown          1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Python            29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+protobuf          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
