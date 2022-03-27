@@ -42,12 +42,12 @@ I'm now working on jit to make hotspot run faster.
  <!--START_SECTION:waka-->
 
 ```text
-C++               17 hrs 29 mins  ██████████████▓░░░░░░░░░░   58.15 %
-ObjectiveC        5 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
-Text              2 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-Markdown          1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-ca65 assembler    1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Java              29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+C++               19 hrs 59 mins  ██████████████▓░░░░░░░░░░   58.13 %
+ObjectiveC        6 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
+Text              2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Markdown          2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+ca65 assembler    1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Java              31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
