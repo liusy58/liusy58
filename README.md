@@ -42,12 +42,12 @@ I'm now working on jit to make hotspot run faster.
  <!--START_SECTION:waka-->
 
 ```text
-Markdown           2 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   32.93 %
-C                  1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
-Assembly           1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-C++                59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-ObjectiveC         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Other              20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Markdown           2 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
+C                  1 hr 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+C++                1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+Assembly           1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Makefile           34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+ObjectiveC         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
