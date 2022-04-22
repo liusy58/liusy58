@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-I'm now working on jit to make hotspot run faster.
+I'm now doing some research on compiler.
 
 
 
