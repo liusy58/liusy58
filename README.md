@@ -40,12 +40,12 @@ I'm now doing some research on compiler.
  <!--START_SECTION:waka-->
 
 ```text
-SWIG               39 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-reStructuredText   29 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-C                  27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-Text               26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-Python             25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-Makefile           11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+TeX                3 hrs 58 mins   █████████████████░░░░░░░░   67.72 %
+reStructuredText   29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Text               26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Python             15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+C                  12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Makefile           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
