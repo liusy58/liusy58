@@ -40,12 +40,12 @@ I'm now doing some research on compiler.
  <!--START_SECTION:waka-->
 
 ```text
-TeX                16 hrs 42 mins  ██████████████▒░░░░░░░░░░   57.78 %
-Text               3 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Python             3 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-C                  1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Makefile           1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Markdown           36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+TeX                16 hrs 39 mins  ██████████████▒░░░░░░░░░░   57.95 %
+Text               3 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+Python             3 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+C                  1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Makefile           1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Markdown           35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
