@@ -40,8 +40,9 @@ I'm now doing some research on compiler.
  <!--START_SECTION:waka-->
 
 ```text
-Python   27 mins         █████████████████████████   99.97 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python     27 mins         ████████████████████████▓   98.27 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
