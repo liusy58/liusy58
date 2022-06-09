@@ -40,7 +40,10 @@ I'm now doing some research on compiler.
  <!--START_SECTION:waka-->
 
 ```text
-Markdown   0 secs          █████████████████████████   100.00 %
+C          21 mins         ███████████████░░░░░░░░░░   59.58 %
+C++        14 mins         █████████▓░░░░░░░░░░░░░░░   38.02 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
