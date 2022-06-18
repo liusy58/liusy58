@@ -42,7 +42,7 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
 
 ```text
 C             1 hr 30 mins    ██████████▒░░░░░░░░░░░░░░   41.36 %
-C++           1 hr 9 mins     ████████░░░░░░░░░░░░░░░░░   31.76 %
+C++           1 hr 9 mins     ████████░░░░░░░░░░░░░░░░░   31.75 %
 Markdown      22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
 Python        16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
 Singularity   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
