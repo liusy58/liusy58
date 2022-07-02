@@ -41,12 +41,12 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
  <!--START_SECTION:waka-->
 
 ```text
-C                4 hrs 7 mins    ██████████░░░░░░░░░░░░░░░   40.22 %
-Markdown         1 hr 34 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
-C++              1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-Python           1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-ca65 assembler   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-TeX              29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Python           2 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.28 %
+C                2 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
+C++              1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Text             1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+TeX              29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+HTML             19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
