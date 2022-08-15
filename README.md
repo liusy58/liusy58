@@ -41,12 +41,12 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
  <!--START_SECTION:waka-->
 
 ```text
-Go                   7 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   29.25 %
-Python               3 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-C                    3 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-LLVM                 2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-C++                  1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Bash                 1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+C++                  10 hrs 34 mins  ███████████░░░░░░░░░░░░░░   43.70 %
+Python               5 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
+LLVM                 2 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+Go                   1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+S                    1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+C                    1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
 ```
 
 <!--END_SECTION:waka-->
