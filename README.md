@@ -41,12 +41,12 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
  <!--START_SECTION:waka-->
 
 ```text
-SQL                5 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   31.17 %
-C                  3 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-C++                1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
-Bash               1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-CMake              57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Makefile           57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+SQL                5 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
+C++                4 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.89 %
+Bash               3 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+C                  1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+CMake              1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+Makefile           57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
