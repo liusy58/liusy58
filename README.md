@@ -41,12 +41,11 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
  <!--START_SECTION:waka-->
 
 ```text
-SQL              5 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.57 %
-C++              4 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
-Bash             3 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
-C                1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-YAML             47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-ObjectiveC       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+C++              5 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.16 %
+SQL              4 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+Bash             3 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+C                2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+Other            1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
 ```
 
 <!--END_SECTION:waka-->
