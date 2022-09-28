@@ -41,12 +41,12 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
  <!--START_SECTION:waka-->
 
 ```text
-C                4 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
-Text             3 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-C++              3 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-Python           2 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-Makefile         1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-ObjectiveC       1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+C                3 hrs 37 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
+Text             3 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
+Python           2 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+C++              2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Makefile         1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+ObjectiveC       1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
 ```
 
 <!--END_SECTION:waka-->
