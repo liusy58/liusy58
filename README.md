@@ -41,12 +41,12 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
  <!--START_SECTION:waka-->
 
 ```text
-Text             1 hr 36 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
-C                1 hr 35 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
-Makefile         1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
-ObjectiveC       40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-C++              33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-CMake            8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+C                1 hr 38 mins    █████████░░░░░░░░░░░░░░░░   35.68 %
+Makefile         1 hr 2 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
+Text             35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+ObjectiveC       35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+C++              33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+CMake            8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
