@@ -41,12 +41,11 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
  <!--START_SECTION:waka-->
 
 ```text
-C++              5 hrs 27 mins   ████████████▓░░░░░░░░░░░░   51.26 %
-Text             1 hr 50 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-Makefile         1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-LLVM             33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-C                21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Other            21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+C++              3 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.50 %
+Text             1 hr 50 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
+Makefile         1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+LLVM             33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Other            21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
