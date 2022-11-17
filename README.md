@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 I'm now doing some research on compiler.
 
-I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/CompilerNotes)
+I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/CompilerNotes) Buy me a cup of coffee [☕️](https://user-images.githubusercontent.com/45984215/202376581-4837a283-4812-4063-82bc-cc9c3101d3a5.jpg) if you find this is helpful!
 
 
  <!--START_SECTION:waka-->
