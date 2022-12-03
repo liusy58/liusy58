@@ -41,12 +41,12 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
  <!--START_SECTION:waka-->
 
 ```text
-C++            9 hrs 27 mins   ███████████░░░░░░░░░░░░░░   43.50 %
-TeX            5 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
-ObjectiveC     1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Markdown       1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Text           56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-C              44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+C++            7 hrs 46 mins   ██████████░░░░░░░░░░░░░░░   39.83 %
+TeX            6 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   31.05 %
+Markdown       1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+ObjectiveC     1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Text           50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+C              34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
