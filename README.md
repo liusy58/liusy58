@@ -41,7 +41,7 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
  <!--START_SECTION:waka-->
 
 ```text
-Other      3 hrs 33 mins   █████████▓░░░░░░░░░░░░░░░   38.55 %
+Other      3 hrs 33 mins   ████████████░░░░░░░░░░░░░   47.46 %
 ```
 
 <!--END_SECTION:waka-->
