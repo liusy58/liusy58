@@ -41,8 +41,9 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
  <!--START_SECTION:waka-->
 
 ```text
-Text     5 hrs 13 mins   █████████████████████████   99.71 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Text     5 hrs 34 mins   █████████████████████████   99.61 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
