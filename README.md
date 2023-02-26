@@ -43,12 +43,12 @@ Buy me a cup of coffee [☕️](https://user-images.githubusercontent.com/459842
  <!--START_SECTION:waka-->
 
 ```text
-C++                10 hrs 47 mins  ██████████▒░░░░░░░░░░░░░░   41.89 %
-Python             2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-C                  2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Assembly           1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-ObjectiveC         1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-TeX                1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+C++                9 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   32.71 %
+Python             4 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+C                  2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Text               1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Assembly           1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+ObjectiveC         1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->
