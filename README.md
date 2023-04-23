@@ -43,12 +43,10 @@ Buy me a cup of coffee [☕️](https://user-images.githubusercontent.com/459842
  <!--START_SECTION:waka-->
 
 ```text
-Markdown     10 mins         ███████████████████████▓░   94.05 %
-C++          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Markdown     0 secs          ████████████▓░░░░░░░░░░░░   50.40 %
+C++          0 secs          ████████████▒░░░░░░░░░░░░   49.59 %
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
