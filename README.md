@@ -43,8 +43,7 @@ Buy me a cup of coffee [☕️](https://user-images.githubusercontent.com/459842
  <!--START_SECTION:waka-->
 
 ```text
-Python     2 hrs 1 min     ███████████████▒░░░░░░░░░   60.77 %
-Other      1 hr            ███████▓░░░░░░░░░░░░░░░░░   30.56 %
+Other    38 mins         █████████████████████████   99.86 %
 ```
 
 <!--END_SECTION:waka-->
