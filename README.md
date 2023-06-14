@@ -43,11 +43,11 @@ Buy me a cup of coffee [☕️](https://user-images.githubusercontent.com/459842
  <!--START_SECTION:waka-->
 
 ```txt
-C++             3 hrs           ████████░░░░░░░░░░░░░░░░░   31.37 %
-Text            1 hr 47 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
-C               1 hr 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-Bash            1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-ObjectiveC      58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+C++             5 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.39 %
+C               2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Text            1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Bash            1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
+ObjectiveC      1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
 ```
 
 <!--END_SECTION:waka-->
