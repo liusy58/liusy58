@@ -44,11 +44,11 @@ Drop me a chat if you share common interests with me. ;-) Wechat: NotYet1234
  <!--START_SECTION:waka-->
 
 ```txt
-C++                8 hrs 4 mins    ██████████████████░░░░░░░   72.36 %
-Markdown           1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
-LLVM               40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-ObjectiveC         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Bash               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+C++                3 hrs 44 mins   ██████████████░░░░░░░░░░░   56.31 %
+Markdown           1 hr 17 mins    █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+LLVM               52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Bash               16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Java               15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
