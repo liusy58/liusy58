@@ -44,11 +44,11 @@ Drop me a chat if you share common interests with me. ;-) Wechat: NotYet1234
  <!--START_SECTION:waka-->
 
 ```txt
-Markdown         4 hrs 8 mins    █████████████████░░░░░░░░   67.72 %
-C                1 hr 6 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
-ObjectiveC       31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-C++              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Makefile         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Markdown         4 hrs 8 mins    ███████████████▓░░░░░░░░░   62.41 %
+C                1 hr 30 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
+ObjectiveC       31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+C++              17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Makefile         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
