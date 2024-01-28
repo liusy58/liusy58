@@ -44,11 +44,11 @@ Drop me a chat if you share common interests with me. ;-) Wechat: NotYet1234
  <!--START_SECTION:waka-->
 
 ```txt
-C              14 hrs 33 mins  ██████████▒░░░░░░░░░░░░░░   41.32 %
-Other          5 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
-Bash           3 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Makefile       3 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Text           2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+C              14 hrs 54 mins  █████████▒░░░░░░░░░░░░░░░   37.56 %
+Other          6 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
+Bash           4 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Text           3 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Makefile       2 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
 ```
 
 <!--END_SECTION:waka-->
