@@ -44,10 +44,10 @@ Drop me a chat if you share common interests with me. ;-) Wechat: NotYet1234
  <!--START_SECTION:waka-->
 
 ```txt
-TeX           6 hrs 47 mins   ██████████████████████░░░   87.51 %
-C             39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Bash          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Singularity   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+TeX           6 hrs 30 mins   █████████████████████▒░░░   84.97 %
+C             50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+Bash          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Singularity   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 BibTeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
