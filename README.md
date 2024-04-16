@@ -44,11 +44,11 @@ Drop me a chat if you share common interests with me. ;-) Wechat: NotYet1234
  <!--START_SECTION:waka-->
 
 ```txt
-TeX            2 hrs 38 mins   ████████████████░░░░░░░░░   63.70 %
-Singularity    1 hr 16 mins    ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-C              12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Bash           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python         3 hrs 58 mins   ████████████▒░░░░░░░░░░░░   48.91 %
+Singularity    1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
+TeX            50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+C              44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+C++            31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
 ```
 
 <!--END_SECTION:waka-->
