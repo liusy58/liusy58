@@ -44,11 +44,11 @@ Drop me a chat if you share common interests with me. ;-) Wechat: NotYet1234
  <!--START_SECTION:waka-->
 
 ```txt
-Python        3 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   36.73 %
-TeX           3 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   31.91 %
-C             44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-C++           42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Other         41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Python        3 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   35.96 %
+TeX           3 hrs 41 mins   ████████▒░░░░░░░░░░░░░░░░   33.33 %
+C             44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+C++           42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Other         41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
 ```
 
 <!--END_SECTION:waka-->
