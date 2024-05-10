@@ -43,9 +43,7 @@ Drop me a chat if you share common interests with me. ;-)
  <!--START_SECTION:waka-->
 
 ```txt
-TeX            29 mins         ██████████████████████▓░░   90.62 %
-Bash           2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
