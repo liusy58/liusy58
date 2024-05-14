@@ -43,7 +43,11 @@ Drop me a chat if you share common interests with me. ;-)
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX            1 hr 30 mins    █████████████████████░░░░   83.90 %
+Bash           6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+BibTeX         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Makefile       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Other          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
