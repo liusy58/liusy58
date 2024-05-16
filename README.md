@@ -43,11 +43,11 @@ Drop me a chat if you share common interests with me. ;-)
  <!--START_SECTION:waka-->
 
 ```txt
-TeX            2 hrs 46 mins   ██████████████████████▓░░   90.59 %
-Bash           6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-BibTeX         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Makefile       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Other          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+TeX            4 hrs 33 mins   ███████████████████████▓░   94.04 %
+Bash           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+BibTeX         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Makefile       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Other          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
