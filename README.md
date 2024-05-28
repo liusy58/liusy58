@@ -43,11 +43,11 @@ Drop me a chat if you share common interests with me. ;-)
  <!--START_SECTION:waka-->
 
 ```txt
-TeX           3 hrs 39 mins   █████████████████████▒░░░   84.75 %
-Singularity   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-C++           10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Other         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Markdown      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+TeX           1 hr 38 mins    ███████████████████░░░░░░   76.36 %
+C++           10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Other         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Markdown      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Singularity   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
