@@ -44,7 +44,7 @@ Drop me a chat if you share common interests with me. ;-)
 
 ```txt
 TeX           1 hr 38 mins    ███████████████████░░░░░░   76.36 %
-C++           10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+C++           10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
 Other         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 Markdown      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 Singularity   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
