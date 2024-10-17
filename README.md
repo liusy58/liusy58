@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=liusy58&color=brightgreen&label=PROFILE+VIEWS)
 
 
-
+<!--
 I'm now doing some research on compiler.
 
 I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/CompilerNotes) 
@@ -39,7 +39,7 @@ I'm now writing a book about [Compiler Optimization](https://github.com/liusy58/
 Buy me a cup of coffee [☕️](https://user-images.githubusercontent.com/45984215/202376581-4837a283-4812-4063-82bc-cc9c3101d3a5.jpg) if you find this is helpful!
 
 Drop me a chat if you share common interests with me. ;-) 
-
+-->
  <!--START_SECTION:waka-->
 
 ```txt
