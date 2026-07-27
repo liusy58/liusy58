@@ -1,4 +1,7 @@
-Currently working on AI Infrastructure. Feel free to reach out at liusy58@smail.nju.edu.cn. Contribute to sglang community.
+Currently working on AI Infrastructure. Feel free to reach out at liusy58@smail.nju.edu.cn. 
+
+
+Ex-LLVM contributor, now all-in on SGLang.
 
 
 
